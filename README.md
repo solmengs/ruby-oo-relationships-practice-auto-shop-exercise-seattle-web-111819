@@ -12,7 +12,7 @@ Here's what we need to be able to do.
 
 **CarOwner**
 
-  - Get a list of all owners
+  x- Get a list of all owners
 
   - Get a list of all the cars that a specific owner has
 
